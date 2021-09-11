@@ -1,0 +1,1 @@
+thid is file2.txt
